@@ -38,7 +38,7 @@ Here you can also set up your microphone as a global audio device. I have set my
 
 ## Mask filter
 Create or download an image mask like this:
-[[square_image_mask.png)
+![](square_image_mask.png)
 
 Add a Color source
 
